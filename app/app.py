@@ -9,7 +9,7 @@ import requests
 import streamlit as st
 
 
-DEFAULT_API_URL = "https://your-render-backend-url.onrender.com"
+DEFAULT_API_URL = "https://resume-screening-system-n7ps.onrender.com"
 
 
 def get_api_url() -> str:

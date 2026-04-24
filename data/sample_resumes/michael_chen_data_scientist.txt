@@ -1,0 +1,23 @@
+Michael Chen
+Data Scientist
+Email: michael.chen@example.com
+Location: Singapore
+
+Professional Summary
+Data scientist with 4 years of experience delivering recommendation models, analytics dashboards, and experimentation pipelines. Skilled in Python, SQL, pandas, scikit-learn, statistics, and data visualization.
+
+Core Skills
+Python, SQL, pandas, scikit-learn, machine learning, statistics, data analysis, feature engineering, Streamlit, AWS, Git
+
+Experience
+Data Scientist, Growth Metrics
+- Built ranking features for recommendation systems using Python and scikit-learn.
+- Partnered with backend teams to expose model insights through REST API services.
+- Automated reporting workflows and model monitoring dashboards.
+
+Analyst, Decision Intelligence Group
+- Performed experimentation analysis and stakeholder reporting.
+
+Education
+Bachelor of Science in Data Science
+University of Melbourne

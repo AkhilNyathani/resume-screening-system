@@ -1,0 +1,24 @@
+Sophia Patel
+Backend Engineer
+Email: sophia.patel@example.com
+Location: Pune, India
+
+Professional Summary
+Backend engineer with 5 years of experience designing microservices and internal platforms for SaaS applications. Strong foundation in Python, FastAPI, Docker, PostgreSQL, Redis, and distributed systems.
+
+Core Skills
+Python, FastAPI, Docker, PostgreSQL, Redis, microservices, REST API, CI/CD, Git, Linux, unit testing
+
+Experience
+Senior Backend Engineer, CloudOps Systems
+- Developed FastAPI services for enterprise workflow automation.
+- Improved API latency and deployment reliability with Docker and CI/CD improvements.
+- Collaborated with data teams to productionize scoring services.
+
+Software Engineer, Core Platform Team
+- Built microservices and background jobs with Python.
+- Maintained Linux-based deployments and database migrations.
+
+Education
+Bachelor of Technology in Computer Science
+Engineering College Pune

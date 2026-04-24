@@ -1,0 +1,8 @@
+We are hiring a Senior Machine Learning Engineer to build a resume screening and candidate ranking platform.
+
+Requirements:
+- 4+ years of experience in machine learning or NLP systems.
+- Strong Python skills and hands-on experience with FastAPI, scikit-learn, and spaCy.
+- Experience deploying production services with Docker and AWS.
+- Familiarity with transformers or semantic search is a plus.
+- Ability to collaborate with backend teams and ship reliable APIs.

@@ -1,0 +1,25 @@
+Alexandra Reed
+Senior Machine Learning Engineer
+Email: alexandra.reed@example.com
+Location: Bengaluru, India
+
+Professional Summary
+Machine learning engineer with 6 years of experience building production-ready NLP and ranking systems for hiring and search platforms. Strong background in Python, FastAPI, scikit-learn, spaCy, Docker, AWS, and MLOps workflows.
+
+Core Skills
+Python, FastAPI, scikit-learn, spaCy, NLP, machine learning, Docker, Kubernetes, AWS, PostgreSQL, Streamlit, unit testing, CI/CD, feature engineering, transformers
+
+Experience
+Lead Machine Learning Engineer, TalentMatch AI
+- Built resume parsing and candidate ranking APIs with FastAPI and Python.
+- Designed TF-IDF and transformer-based matching pipelines for job-to-candidate relevance scoring.
+- Deployed containerized services on AWS using Docker and Kubernetes.
+- Improved recruiter precision by 24 percent through better skill extraction and scoring.
+
+Machine Learning Engineer, Insight Labs
+- Created NLP pipelines with spaCy and scikit-learn for document classification.
+- Worked with PostgreSQL, Airflow, and Git-based CI/CD pipelines.
+
+Education
+Master of Science in Computer Science
+Bachelor of Engineering in Information Technology

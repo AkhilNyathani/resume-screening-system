@@ -7,8 +7,8 @@ import os
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-from api.parser import clean_text
-from api.utils import candidate_name_from_filename, compute_skill_match, extract_profile_signals
+from parser import clean_text
+from utils import candidate_name_from_filename, compute_skill_match, extract_profile_signals
 
 
 @dataclass(slots=True)

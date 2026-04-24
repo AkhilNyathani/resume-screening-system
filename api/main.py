@@ -6,9 +6,22 @@ from fastapi import FastAPI, File, Form, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
-from api.model import CandidateDocument, ResumeRanker
-from api.parser import clean_text, extract_resume_text
+from model import CandidateDocument, ResumeRanker
+from parser import clean_text, extract_resume_text
 
+import spacy
+
+try:
+    nlp = spacy.load("en_core_web_sm")
+except:
+    nlp = spacy.blank("en")
+
+def get_nlp():
+    import spacy
+    try:
+        return spacy.load("en_core_web_sm")
+    except:
+        return spacy.blank("en")
 
 class RankedCandidate(BaseModel):
     rank: int

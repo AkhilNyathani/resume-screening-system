@@ -5,6 +5,9 @@ This project provides a production-ready resume screening workflow built with Fa
 
 The system uses a clean separation between the API layer, parsing utilities, NLP feature extraction, and the user interface. It is designed for straightforward deployment on Render for the backend and Streamlit Cloud for the frontend.
 
+Live Demo Links: Render: https://resume-screening-system-n7ps.onrender.com
+                 Streamlit: https://resume-screening-system-akhilnyathani.streamlit.app/
+
 ## Features
 - Upload multiple resumes in PDF, DOCX, or TXT format
 - Parse and clean resume text with modular file handlers
@@ -155,7 +158,7 @@ If you want to run the frontend against a local backend during development, set 
 5. If you use **Blueprint**, Render will read `render.yaml` automatically.
 6. If you create the service manually, use:
    - Build Command: `pip install -r api/requirements.txt`
-   - Start Command: `uvicorn api.main:app --host 0.0.0.0 --port 10000`
+   - Start Command: `uvicorn main:app --host 0.0.0.0 --port 10000`
 7. Set any optional environment variables:
    - `CORS_ALLOW_ORIGINS`
    - `SENTENCE_TRANSFORMER_MODEL`
